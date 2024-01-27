@@ -29,6 +29,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
   <img width="12" />
+  <br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
@@ -53,9 +54,6 @@
 </div>
 
   ###
- 
-  ###
-
   ###
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpitadey88" alt="arpitadey88" /></a> </p>
 
@@ -72,9 +70,6 @@
 - ⚡ Fun fact **Equal is Not Always Equal in Javascript.**
 
 <h3 align="left">Connect with me:</h3>
- ###
-
-<div align="center">
   <a href="deyarpitabanik@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="35" alt="gmail logo"  />
   </a>
@@ -90,9 +85,7 @@
   <a href="https://discord.com/#3778" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="55" height="35" alt="discord logo"  />
   </a>
-</div>
 
-###
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpitadey88&show_icons=true&locale=en&layout=compact" alt="arpitadey88" /></p>
