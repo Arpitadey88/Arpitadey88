@@ -55,6 +55,7 @@ src="https://camo.githubusercontent.com/d47c7d1ab92d7b3dae8edffb139b129f1f07af03
 <br/>
   
   ###
+  <br/>
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpitadey88" alt="arpitadey88" /></a> </p>
 
 - 🌱 I’m currently learning **Next.js, Redux, CI/CD, Jira**
