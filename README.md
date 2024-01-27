@@ -53,9 +53,6 @@ src="https://camo.githubusercontent.com/d47c7d1ab92d7b3dae8edffb139b129f1f07af03
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
 </div>
-<br/>
-  ###
-
 
   
   ###
