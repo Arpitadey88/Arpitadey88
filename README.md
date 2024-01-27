@@ -1,4 +1,5 @@
 <h2 align="center">Hi There👋, I'm Arpita Dey<br>A passionate frontend developer from Bangladesh</h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitadey88&label=Profile%20views&color=0e75b6&style=flat" alt="arpitadey88" /> </p>
 
 ###
 
