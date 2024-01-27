@@ -30,7 +30,6 @@ src="https://camo.githubusercontent.com/d47c7d1ab92d7b3dae8edffb139b129f1f07af03
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
   <img width="12" />
-  <br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
@@ -53,7 +52,7 @@ src="https://camo.githubusercontent.com/d47c7d1ab92d7b3dae8edffb139b129f1f07af03
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
 </div>
-
+<br/>
   
   ###
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpitadey88" alt="arpitadey88" /></a> </p>
