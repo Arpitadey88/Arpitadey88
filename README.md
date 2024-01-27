@@ -54,25 +54,7 @@
 </div>
 
   ###
-  </br/>
-  ###
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpitadey88" alt="arpitadey88" /></a> </p>
-
-- 🌱 I’m currently learning **Next.js, Redux, CI/CD, Jira**
-
-- 👨‍💻 All of my projects are available at [https://arpita-portfolio-3a94a.web.app/](https://arpita-portfolio-3a94a.web.app/)
-
-- 💬 Ask me about **Web Technogy**
-
-- 📫 How to reach me **deyarpitabanik@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1tXHHjr3kXN_45qOvntlWwCdhNEUFg2Sv/view](https://drive.google.com/file/d/1tXHHjr3kXN_45qOvntlWwCdhNEUFg2Sv/view)
-
-- ⚡ Fun fact **Equal is Not Always Equal in Javascript.**
-
-<div display= "flex">
-  <h3 align="left">Connect with me:</h3>
-<div>
+<h3 align="left">Social Links :
    <a href="deyarpitabanik@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="35" alt="gmail logo"  />
   </a>
@@ -88,9 +70,24 @@
   <a href="https://discord.com/#3778" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="55" height="35" alt="discord logo"  />
   </a>
-</div>
-</div>
+ </h3>
+  
+  ###
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpitadey88" alt="arpitadey88" /></a> </p>
 
+- 🌱 I’m currently learning **Next.js, Redux, CI/CD, Jira**
+
+- 👨‍💻 All of my projects are available at [https://arpita-portfolio-3a94a.web.app/](https://arpita-portfolio-3a94a.web.app/)
+
+- 💬 Ask me about **Web Technogy**
+
+- 📫 How to reach me **deyarpitabanik@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1tXHHjr3kXN_45qOvntlWwCdhNEUFg2Sv/view](https://drive.google.com/file/d/1tXHHjr3kXN_45qOvntlWwCdhNEUFg2Sv/view)
+
+- ⚡ Fun fact **Equal is Not Always Equal in Javascript.**
+
+  <h3 align="left">Connect with me:</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpitadey88&show_icons=true&locale=en&layout=compact" alt="arpitadey88" /></p>
 
