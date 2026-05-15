@@ -57,7 +57,7 @@ src="https://i.ibb.co/FxpR52g/output-onlinegiftools-2.gif" />
   <br/>
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpitadey88" alt="arpitadey88" /></a> </p>
   
-- 🌱 I’m currently learning **Next.js, Redux, CI/CD, Jira**
+- 🌱 I’m currently learning **Typescript, Redux, CI/CD, Jira**
   
 - 👨‍💻 All of my projects are available at [https://arpita-portfolio-3a94a.web.app/](https://arpita-portfolio-3a94a.web.app/)
   
